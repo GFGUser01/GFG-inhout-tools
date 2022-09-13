@@ -22,3 +22,6 @@ flask run
 ```bash
 celery -A FlaskUploader worker -E
 ```
+
+## TODO:
+- Add support for .xlsx file type.
